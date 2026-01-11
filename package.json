@@ -1,0 +1,9 @@
+{
+  "name": "blockchain-nosql-audit",
+  "version": "1.0.0",
+  "description": "Blockchain-integrated MongoDB audit trail prototype",
+  "main": "execution/runDemo.js",
+  "dependencies": {
+    "mongodb": "^6.0.0"
+  }
+}
